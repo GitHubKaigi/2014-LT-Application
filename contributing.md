@@ -2,7 +2,7 @@
 LTに当選した方には記念品を贈呈します。
 
 発表にあたっての注意事項
-LT登壇者も http://githubkaigi.doorkeeper.jp/events/???? から参加登録をお願いします。
+LT登壇者も http://githubkaigi.doorkeeper.jp/events/11081 から参加登録をお願いします。
 
 応募先
 こちらのリポジトリのIssueを登録してください。タイトルに発表タイトル、本文には簡単な内容の紹介とサイトに掲載する際のお名前、所属などをお願いします。
